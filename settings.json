@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
-  "server": {"NarratorCraft.aternos.me"
-    "ip": "NarratorCraft.aternos.me:37034",
+  "server": {
+    "ip": "NarratorCraft.aternos.me",
     "port": 37034,
     "version": "1.21.11",
     "try-creative": false
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Eracles09!",
         "I like to play Minecraft!"
       ]
     },
