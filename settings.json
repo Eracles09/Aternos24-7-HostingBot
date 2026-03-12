@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "NarratorCraft.aternos.me",
+  "server": {"NarratorCraft.aternos.me"
+    "ip": "NarratorCraft.aternos.me:37034",
     "port": 37034,
     "version": "1.21.11",
     "try-creative": false
