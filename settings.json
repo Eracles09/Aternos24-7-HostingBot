@@ -1,7 +1,7 @@
 {
   "name": "Narrator",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Narrator",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 118,
     "y": 100,
-    "z": 0
+    "z": 52
   },
   "utils": {
     "auto-auth": {
