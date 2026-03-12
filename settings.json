@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "Narrator",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {"NarratorCraft.aternos.me"
     "ip": "NarratorCraft.aternos.me:37034",
